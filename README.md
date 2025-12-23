@@ -44,6 +44,8 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 
 * **Processamento Digital** (Jorge Santos): [Link](https://www.processamentodigital.com.br/)
 * **Anderson Medeiros**: [Link](https://andersonmedeiros.com/)
+* **Blog do Fernando Quadro**: [Link](https://www.fernandoquadro.com.br/html/)
+* **Blog do Narcélio de Sá**: [Link](https://narceliodesa.com)
 * *(Adicione mais aqui)*
 
 ---
@@ -52,6 +54,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 *Plataformas que oferecem capacitação em softwares livres geo.*
 
 * **Capacitação QGIS (EAD/INPE):** [Link](http://www.dpi.inpe.br/capacitacao/)
+* **Geocursos:** [Link](https://www.geocursos.com.br)
 * *(Adicione mais aqui)*
 
 ---
