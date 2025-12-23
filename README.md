@@ -46,24 +46,23 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 * **Anderson Medeiros**: [Link](https://andersonmedeiros.com/)
 * **Blog do Fernando Quadro**: [Link](https://www.fernandoquadro.com.br/html/)
 * **Blog do Narcélio de Sá**: [Link](https://narceliodesa.com)
+* **Geosaber** [Link](https://www.geosaber.com.br/blog/)
 * *(Adicione mais aqui)*
 
 ---
-
 ## 🎓 Cursos e Treinamentos
 *Plataformas que oferecem capacitação em softwares livres geo.*
 
-* **Capacitação QGIS (EAD/INPE):** [Link](http://www.dpi.inpe.br/capacitacao/)
 * **Geocursos:** [Link](https://www.geocursos.com.br)
+* **Geosaber** [link](https://www.geosaber.com.br)
 * *(Adicione mais aqui)*
-
 ---
 
 ## 📊 Repositórios de Dados e APIs
 *Onde encontrar dados abertos para usar com ferramentas FOSS4G.*
 
 * **INDE (Infraestrutura Nacional de Dados Espaciais):** [Link](https://visualizador.inde.gov.br/)
-* **IBGE Geociências:** [Link](https://www.ibge.gov.br/geociencias/inicio-geociencias.html)
+* **IBGE Geociências:** [Link](https://www.ibge.gov.br/geociencias/downloads-geociencias.html)
 * *(Adicione mais aqui)*
 
 ---
