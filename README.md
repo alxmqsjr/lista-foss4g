@@ -3,9 +3,16 @@
 Uma lista curada de canais, blogs, cursos e comunidades sobre **FOSS4G** (Free and Open Source Software for Geospatial) em língua portuguesa.
 
 A ideia desta lista surgiu a partir de uma mobilização da comunidade no LinkedIn, iniciada por este [post do Narcélio de Sá](https://www.linkedin.com/posts/narceliodesa_gis-geospatial-remotesensing-activity-7408544369932320768-tUuT).
-
 ---
 
+## 📍 Sumário
+* [📺 Canais no YouTube](#-canais-no-youtube)
+* [✍️ Blogs e Portais](#️-blogs-e-portais)
+* [🎓 Cursos e Treinamentos](#-cursos-e-treinamentos)
+* [📊 Repositórios de Dados e APIs](#-repositórios-de-dados-e-apis)
+* [🚀 Como Contribuir](#-como-contribuir)
+
+---
 ## 📺 Canais no YouTube
 
 Abaixo estão os principais criadores de conteúdo que disseminam conhecimento sobre geotecnologias livres no Brasil:
@@ -30,9 +37,37 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 | **ThinkFreeGeo** | Kyle Felipe Vieira Roberto | [Acessar](https://www.youtube.com/@ThinkFreeGeo) |
 | **VasGeo** | - | [Acessar](https://www.youtube.com/@VasGeo) |
 | **Narcélio de Sá** | Narcélio de Sá Pereira Filho | [Acessar](https://www.youtube.com/@narceliodesa) |
+|**Geocursos**| Fernando Quadro | [Acessar](https://www.youtube.com/@geocursos)
+
+## ✍️ Blogs e Portais
+*Recursos textuais, tutoriais escritos e notícias.*
+
+* **Processamento Digital** (Jorge Santos): [Link](https://www.processamentodigital.com.br/)
+* **Anderson Medeiros**: [Link](https://andersonmedeiros.com/)
+* **Blog do Fernando Quadro**: [Link](https://www.fernandoquadro.com.br/html/)
+* **Blog do Narcélio de Sá**: [Link](https://narceliodesa.com)
+* *(Adicione mais aqui)*
 
 ---
 
+## 🎓 Cursos e Treinamentos
+*Plataformas que oferecem capacitação em softwares livres geo.*
+
+* **Capacitação QGIS (EAD/INPE):** [Link](http://www.dpi.inpe.br/capacitacao/)
+* **Geocursos:** [Link](https://www.geocursos.com.br)
+* *(Adicione mais aqui)*
+
+---
+
+## 📊 Repositórios de Dados e APIs
+*Onde encontrar dados abertos para usar com ferramentas FOSS4G.*
+
+* **INDE (Infraestrutura Nacional de Dados Espaciais):** [Link](https://visualizador.inde.gov.br/)
+* **IBGE Geociências:** [Link](https://www.ibge.gov.br/geociencias/inicio-geociencias.html)
+* *(Adicione mais aqui)*
+
+
+---
 ## 🚀 Como Contribuir
 
 Esta é uma lista colaborativa! Se você conhece um recurso (blog, podcast, curso gratuito) que não está aqui:
